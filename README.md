@@ -34,4 +34,4 @@ This task is the same as task 0, except:
 
 How far can you go in less than 5 seconds?
 
-* Read: [RSA Factoring Challenge] (https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
+* Read: [RSA Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
